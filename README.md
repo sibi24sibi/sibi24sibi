@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sibi Chakraborthy.V</h1>
-<h3 align="center">A passionate Web developer look to improve my self day by day</h3>
+<h3 align="center">A passionate Web developer looking to improve my self day by day</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sibi24sibi&label=Profile%20views&color=0e75b6&style=flat" alt="sibi24sibi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sibi24sibi" alt="sibi24sibi" /></a> </p>
 
 - 🌱 I’m currently learning **NodeJs,NextJs**
 
